@@ -6,10 +6,28 @@
     <description>Recent content in Tags on code4libtoronto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2017 22:30:50 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 22:45:14 -0400</lastBuildDate>
     
 	<atom:link href="http://code4libtoronto.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digital Repositories</title>
+      <link>http://code4libtoronto.github.io/tags/digital-repositories/</link>
+      <pubDate>Sat, 13 May 2017 22:45:14 -0400</pubDate>
+      
+      <guid>http://code4libtoronto.github.io/tags/digital-repositories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Development</title>
+      <link>http://code4libtoronto.github.io/tags/open-source-development/</link>
+      <pubDate>Sat, 13 May 2017 22:45:14 -0400</pubDate>
+      
+      <guid>http://code4libtoronto.github.io/tags/open-source-development/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Site Building</title>

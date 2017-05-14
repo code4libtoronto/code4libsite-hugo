@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://code4libtoronto.github.io/post/2017-06-22/</loc>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://code4libtoronto.github.io/post/2017-04-27/</loc>
     <lastmod>2017-05-13T22:30:50-04:00</lastmod>
   </url>
@@ -18,14 +23,26 @@
   </url>
   
   <url>
+    <loc>http://code4libtoronto.github.io/tags/digital-repositories/</loc>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://code4libtoronto.github.io/categories/event/</loc>
-    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/tags/open-source-development/</loc>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://code4libtoronto.github.io/post/</loc>
-    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,19 +60,19 @@
   
   <url>
     <loc>http://code4libtoronto.github.io/tags/</loc>
-    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://code4libtoronto.github.io/categories/technology/</loc>
-    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://code4libtoronto.github.io/</loc>
-    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
+    <lastmod>2017-05-13T22:45:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
