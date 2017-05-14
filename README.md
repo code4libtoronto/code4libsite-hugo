@@ -13,3 +13,11 @@ If you want to build the site, run the deploy.sh script. From the instructions o
 
 Changes should be pushed to the [code4libtoronto.github.io repository](https://github.com/code4libtoronto/code4libtoronto.github.io)
 
+## Content Editing Workflow
+
+hugo new post/2017-11-01.md
+cd content/post/2017-11-01.md
+Make changes, edit metadata
+hugo -t=after-dark
+hugo server --buildDrafts
+copy over to code4libtoronto.github.io repository

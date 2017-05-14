@@ -18,13 +18,25 @@
   </url>
   
   <url>
-    <loc>http://code4libtoronto.github.io/tags/hello/</loc>
+    <loc>http://code4libtoronto.github.io/categories/event/</loc>
     <lastmod>2017-05-13T22:30:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://code4libtoronto.github.io/post/</loc>
+    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/tags/site-building/</loc>
+    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/tags/static-site-generators/</loc>
     <lastmod>2017-05-13T22:30:50-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -37,12 +49,6 @@
   
   <url>
     <loc>http://code4libtoronto.github.io/categories/technology/</loc>
-    <lastmod>2017-05-13T22:30:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://code4libtoronto.github.io/tags/world/</loc>
     <lastmod>2017-05-13T22:30:50-04:00</lastmod>
     <priority>0</priority>
   </url>
