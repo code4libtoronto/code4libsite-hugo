@@ -15,9 +15,9 @@ Changes should be pushed to the [code4libtoronto.github.io repository](https://g
 
 ## Content Editing Workflow
 
-hugo new post/2017-11-01.md
-cd content/post/2017-11-01.md
-Make changes, edit metadata
-hugo -t=after-dark
-hugo server --buildDrafts
-copy over to code4libtoronto.github.io repository
+1. hugo new post/2017-11-01.md
+2. cd content/post/2017-11-01.md
+3. Make changes, edit metadata
+4. hugo -t=after-dark
+5. hugo server --buildDrafts
+6. copy over to code4libtoronto.github.io repository
