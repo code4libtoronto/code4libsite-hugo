@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>code4libtoronto</title>
-    <link>http://code4libtoronto.github.io/</link>
-    <description>Recent content on code4libtoronto</description>
+    <title>Hello on code4libtoronto</title>
+    <link>http://code4libtoronto.github.io/tags/hello/</link>
+    <description>Recent content in Hello on code4libtoronto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 May 2017 22:30:50 -0400</lastBuildDate>
     
-	<atom:link href="http://code4libtoronto.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://code4libtoronto.github.io/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,15 +23,6 @@ Facilitators Kaitlin Newson (Scholars Portal) Giles Orr (Toronto Public Library)
 Presentation Slides: Pelican, by Giles Orr - https://www.gilesorr.com/code/pelican.2017-04/ Hugo, by Kaitlin Newson - https://www.kaitlinnewson.com/page/hugo201704/#/
 About the Event April 27 · 6:00 PM Ryerson Library - Room LIB386C Moderators: Kaitlin Newson &amp;amp; Giles Orr
 A static website is made up of HTML, CSS, and JavaScript. It does not use any server-side language, and is delivered to the end user as it exists on the web server.</description>
-    </item>
-    
-    <item>
-      <title>welcome</title>
-      <link>http://code4libtoronto.github.io/post/welcome/</link>
-      <pubDate>Thu, 11 May 2017 15:42:36 -0400</pubDate>
-      
-      <guid>http://code4libtoronto.github.io/post/welcome/</guid>
-      <description>welcome to the code4lib toronto website Meetup is your friend: https://www.meetup.com/code4libtoronto/</description>
     </item>
     
   </channel>
