@@ -18,8 +18,9 @@
       
       <guid>http://code4libtoronto.github.io/post/2017-06-22/</guid>
       <description>Date June 22, 2017
-Event Link http s://www.meetup.com/code4libtoronto/events/230245499/
-Facilitators Nancy Fong Kim Pham (University of Toronto)
+Event Link https://www.meetup.com/code4libtoronto/events/230245499/
+Facilitators Nancy Fong
+Kim Pham (University of Toronto)
 Presentation Slides: &amp;hellip;will be added after the event
 About the Event June 22 · 6:00 PM Ryerson Library - Room LIB386C Moderators: Nancy Fong &amp;amp; Kim Pham
 Share use cases, current setup, goals, problems and technologies surrounding open source and non-open source repositories.</description>
@@ -37,6 +38,26 @@ Facilitators Kaitlin Newson (Scholars Portal) Giles Orr (Toronto Public Library)
 Presentation Slides: Pelican, by Giles Orr - https://www.gilesorr.com/code/pelican.2017-04/ Hugo, by Kaitlin Newson - https://www.kaitlinnewson.com/page/hugo201704/#/
 About the Event April 27 · 6:00 PM Ryerson Library - Room LIB386C Moderators: Kaitlin Newson &amp;amp; Giles Orr
 A static website is made up of HTML, CSS, and JavaScript. It does not use any server-side language, and is delivered to the end user as it exists on the web server.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: TPL Library Carpentry</title>
+      <link>http://code4libtoronto.github.io/post/2017-02-22/</link>
+      <pubDate>Wed, 22 Feb 2017 23:02:12 -0400</pubDate>
+      
+      <guid>http://code4libtoronto.github.io/post/2017-02-22/</guid>
+      <description>Event Link https://gvwilson.github.io/2017-02-22-tpl/</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Software Carpentry for Libraries</title>
+      <link>http://code4libtoronto.github.io/post/2016-07-28/</link>
+      <pubDate>Thu, 28 Jul 2016 23:01:51 -0400</pubDate>
+      
+      <guid>http://code4libtoronto.github.io/post/2016-07-28/</guid>
+      <description>Event Link https://code4libtoronto.github.io/2016-07-28-librarycarpentry/
+Lessons: https://github.com/code4libtoronto/2016-07-28-librarycarpentrylessons
+More Lessons: https://github.com/code4libtoronto/2016-07-28-librarycarpentry/tree/gh-pages/python</description>
     </item>
     
   </channel>

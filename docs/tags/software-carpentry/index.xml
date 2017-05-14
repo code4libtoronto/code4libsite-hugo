@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Carpentry on code4libtoronto</title>
+    <link>http://code4libtoronto.github.io/tags/software-carpentry/</link>
+    <description>Recent content in Software Carpentry on code4libtoronto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2017 23:02:12 -0400</lastBuildDate>
+    
+	<atom:link href="http://code4libtoronto.github.io/tags/software-carpentry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workshop: TPL Library Carpentry</title>
+      <link>http://code4libtoronto.github.io/post/2017-02-22/</link>
+      <pubDate>Wed, 22 Feb 2017 23:02:12 -0400</pubDate>
+      
+      <guid>http://code4libtoronto.github.io/post/2017-02-22/</guid>
+      <description>Event Link https://gvwilson.github.io/2017-02-22-tpl/</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Software Carpentry for Libraries</title>
+      <link>http://code4libtoronto.github.io/post/2016-07-28/</link>
+      <pubDate>Thu, 28 Jul 2016 23:01:51 -0400</pubDate>
+      
+      <guid>http://code4libtoronto.github.io/post/2016-07-28/</guid>
+      <description>Event Link https://code4libtoronto.github.io/2016-07-28-librarycarpentry/
+Lessons: https://github.com/code4libtoronto/2016-07-28-librarycarpentrylessons
+More Lessons: https://github.com/code4libtoronto/2016-07-28-librarycarpentry/tree/gh-pages/python</description>
+    </item>
+    
+  </channel>
+</rss>

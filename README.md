@@ -20,4 +20,4 @@ Changes should be pushed to the [code4libtoronto.github.io repository](https://g
 3. Make changes, edit metadata
 4. hugo -t=after-dark
 5. hugo server --buildDrafts
-6. copy over to code4libtoronto.github.io repository
+6. copy over docs/ to code4libtoronto.github.io repository

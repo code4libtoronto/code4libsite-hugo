@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>http://code4libtoronto.github.io/post/2017-02-22/</loc>
+    <lastmod>2017-02-22T23:02:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/post/2016-07-28/</loc>
+    <lastmod>2016-07-28T23:01:51-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://code4libtoronto.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -31,6 +41,12 @@
   <url>
     <loc>http://code4libtoronto.github.io/categories/event/</loc>
     <lastmod>2017-05-13T22:45:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/tags/library-carpentry/</loc>
+    <lastmod>2017-02-22T23:02:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,6 +69,12 @@
   </url>
   
   <url>
+    <loc>http://code4libtoronto.github.io/tags/software-carpentry/</loc>
+    <lastmod>2017-02-22T23:02:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://code4libtoronto.github.io/tags/static-site-generators/</loc>
     <lastmod>2017-05-13T22:30:50-04:00</lastmod>
     <priority>0</priority>
@@ -67,6 +89,12 @@
   <url>
     <loc>http://code4libtoronto.github.io/categories/technology/</loc>
     <lastmod>2017-05-13T22:45:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/categories/workshop/</loc>
+    <lastmod>2017-02-22T23:02:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
