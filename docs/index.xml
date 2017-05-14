@@ -20,5 +20,18 @@
       <description>welcome to the code4lib toronto website Meetup is your friend: https://www.meetup.com/code4libtoronto/</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://code4libtoronto.github.io/post/2017-04-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://code4libtoronto.github.io/post/2017-04-27/</guid>
+      <description>Learn about static site generators https://www.meetup.com/code4libtoronto/events/238780747/
+Facilitators Kaitlin Newson (Scholars Portal) Giles Orr (Toronto Public Library)
+Presentation Slides: Pelican, by Giles Orr - https://www.gilesorr.com/code/pelican.2017-04/ Hugo, by Kaitlin Newson - https://www.kaitlinnewson.com/page/hugo201704/#/
+About the Event April 27 · 6:00 PM Ryerson Library - Room LIB386C Moderators: Kaitlin Newson &amp;amp; Giles Orr
+A static website is made up of HTML, CSS, and JavaScript. It does not use any server-side language, and is delivered to the end user as it exists on the web server.</description>
+    </item>
+    
   </channel>
 </rss>
